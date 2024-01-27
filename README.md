@@ -1,4 +1,4 @@
-# Automatic region of interest segmentation in thermal images of the mother using deep networks
+# Automatic region of interest segmentation in thermal images of the breast using deep networks
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
